@@ -73,7 +73,7 @@ for sentence in sentences:
 			if foundit is not True:
 				print(word)
 	#print(sentence)
-'''
+
 # Extructing the sentance that mention a referance.
 listofReferences = []
 i = 0
@@ -88,7 +88,7 @@ for sentence in sentences:
 listofReferences = list(dict.fromkeys(listofReferences))
 for re in listofReferences:
 	print(re)
-'''
+
 
 
 
